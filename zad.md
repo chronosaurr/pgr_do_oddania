@@ -1,4 +1,4 @@
-#### Struktury
+## Struktury
 ##### Zad 1
 Napisz program, który będzie przechowywał informacje o ocenach studentów z jednej grupy z przedmiotu PRG. 
 Każdy student ma predefiniowane imię i nazwisko oraz swój numer indeksu. 
@@ -19,7 +19,7 @@ Policzyć, ile samochodów zostało wyprodukowanych po roku 2000 i wyświetlić 
 Znaleźć najstarszy samochód (z najmniejszym rokProdukcji) i wypisać jego markę i model.
 
 
-#### Obiektowosc 1
+## Obiektowosc 1
 
 ##### Zad 1
 Napisz klasę samochód, która zawierać będzie pola: marka, model, pojemność silnika, rodzaj paliwa oraz metody:
@@ -34,7 +34,7 @@ W funkcji main stwórz nowy obiekt, poproś użytkownika o podanie a i b, a n
 Konto Bankowe: Zdefiniuj klasę BankAccount reprezentującą konto bankowe. Dodaj publiczne pola dla numeru konta, 
 salda i właściciela. Utwórz metody do wpłacania, wypłacania i wyświetlania salda.
 
-#### Obiektowosc 2
+## Obiektowosc 2
 
 ##### Zad 1
 Zadanie z konstruktorem i hermetyzacją - Książka:
